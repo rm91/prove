@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Rosa>
+<Giocatore id="1" nome="ANDUJAR" ruolo="P" squadra="NAPOLI"/>
+<Giocatore id="2" nome="BRKIC" ruolo="P" squadra="CAGLIARI"/>
+<Giocatore id="3" nome="BIZZARI" ruolo="P" squadra="CHIEVO"/>
+<Giocatore id="4" nome="CANNAVARO" ruolo="D" squadra="SASSUOLO"/>
+<Giocatore id="5" nome="BONUCCI" ruolo="D" squadra="JUVENTUS"/>
+<Giocatore id="6" nome="ZUKANOVIC" ruolo="D" squadra="CHIEVO"/>
+<Giocatore id="7" nome="MAGGIO" ruolo="D" squadra="NAPOLI"/>
+<Giocatore id="8" nome="LAZAAR" ruolo="D" squadra="PALERMO"/>
+<Giocatore id="9" nome="DE MAIO" ruolo="D" squadra="GENOA"/>
+<Giocatore id="10" nome="PALETTA" ruolo="D" squadra="MILAN"/>
+<Giocatore id="11" nome="ALEX" ruolo="D" squadra="MILAN"/>
+<Giocatore id="12" nome="PEROTTI" ruolo="C" squadra="GENOA"/>
+<Giocatore id="13" nome="SORIANO" ruolo="C" squadra="SAMPDORIA"/>
+<Giocatore id="14" nome="BRIENZA" ruolo="C" squadra="CESENA"/>
+<Giocatore id="15" nome="MORALEZ" ruolo="C" squadra="ATALANTA"/>
+<Giocatore id="16" nome="CIGARINI" ruolo="C" squadra="ATALANTA"/>
+<Giocatore id="17" nome="JOAO PEDRO" ruolo="C" squadra="CAGLIARI"/>
+<Giocatore id="18" nome="JOAQUIN" ruolo="C" squadra="FIORENTINA"/>
+<Giocatore id="19" nome="HALLFREDSSON" ruolo="C" squadra="VERONA"/>
+<Giocatore id="20" nome="GOMEZ M." ruolo="A" squadra="FIORENTINA"/>
+<Giocatore id="21" nome="BABACAR" ruolo="A" squadra="FIORENTINA"/>
+<Giocatore id="22" nome="GABBIADINI" ruolo="A" squadra="NAPOLI"/>
+<Giocatore id="23" nome="PALACIO" ruolo="A" squadra="INTER"/>
+<Giocatore id="24" nome="DENIS" ruolo="A" squadra="ATALANTA"/>
+<Giocatore id="25" nome="OKAKA" ruolo="A" squadra="SAMPDORIA"/>
+</Rosa>
