@@ -14,13 +14,13 @@ import java.io.File;
 import java.util.ArrayList;
  
 
-public class SettaggioTitolarit‡ {
+public class SettaggioTitolarit√† {
 	
 	private ArrayList<GiocatoreRosa> rosagiocatori;
 	private int giornata;
 
 	
-	public SettaggioTitolarit‡(int giornata)
+	public SettaggioTitolarit√†(int giornata)
 	{
 		  rosagiocatori = new ArrayList<GiocatoreRosa>();
 		  this.giornata=giornata;
@@ -78,7 +78,6 @@ public class SettaggioTitolarit‡ {
 								  if(nodob.getNodeType()==1) {	  
 									  String string = nodob.getFirstChild().getNodeValue().toUpperCase();
 									  String[] parts = string.split(" [0-9]");
-									  String nome1 = parts[0]; 
 									  String part2 = parts[1]; 
 									  String[] parts2 = part2.split("%");
 									  String part3 = parts2[0]; 
